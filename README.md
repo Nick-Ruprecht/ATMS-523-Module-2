@@ -7,7 +7,7 @@ and visualizes results using matplotlib and cartopy.
 ## Tools Used
 - xarray and dask for data handling
 - matplotlib and cartopy for plotting
-- ERA5 data from Copernicus Climate Data Store and NCAR GDEX
+- ERA5 data from NCAR GDEX
 
 ## Data Reference
 ERA5 Monthly Aggregated Forecast Surface Accumulated Precipitation  
